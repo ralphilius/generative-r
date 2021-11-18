@@ -10,6 +10,7 @@ You will need to install the following packages (if you don't have them already)
 ```
 install.packages("tidyverse")
 install.packages("Rcpp")
+install.packages("RcppArmadillo")
 install.packages("reshape2")
 install.packages("colourlovers")
 ```
