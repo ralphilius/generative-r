@@ -17,11 +17,11 @@ install.packages("colourlovers")
 ## Abstractions
 
 An R experiment to create images inspired by Physarum model. Some examples:
-![image](https://user-images.githubusercontent.com/4253551/142434946-bd0efbff-336b-4690-94df-dbecb1e32fdb.png)
-![image](https://user-images.githubusercontent.com/4253551/142435001-94675bff-e41e-4d8f-927d-eca8d087dcae.png)
-![image](https://user-images.githubusercontent.com/4253551/142434973-2f2422c4-84d5-42c6-932a-d84e27b4f827.png)
-![image](https://user-images.githubusercontent.com/4253551/142435018-e9f2375a-66bd-4d86-bff2-36bfe5f66277.png)
 
+<img src="https://user-images.githubusercontent.com/4253551/142434946-bd0efbff-336b-4690-94df-dbecb1e32fdb.png" width=40%></img>
+<img src="https://user-images.githubusercontent.com/4253551/142435001-94675bff-e41e-4d8f-927d-eca8d087dcae.png" width=40%></img>
+<img src="https://user-images.githubusercontent.com/4253551/142434973-2f2422c4-84d5-42c6-932a-d84e27b4f827.png" width=40%></img>
+<img src="https://user-images.githubusercontent.com/4253551/142435018-e9f2375a-66bd-4d86-bff2-36bfe5f66277.png" width=40%></img>
 
 ### More info
 
