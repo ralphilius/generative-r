@@ -42,6 +42,11 @@ An R experiment to create images inspired by Physarum model. Some examples:
 
 An R experiment to create images based on Cyclic Cellular Automata. Examples:
 
+<img src="https://user-images.githubusercontent.com/4253551/142437748-51c4f9cc-9f00-4f2d-99ce-765b2f971a2a.png" width=40%></img>
+<img src="https://user-images.githubusercontent.com/4253551/142437793-b34459fb-47cf-4a4b-9a4b-b2cc2019280f.png" width=40%></img>
+<img src="https://user-images.githubusercontent.com/4253551/142437777-d8a94d70-8985-4930-b7fd-9faa4cea70fe.png" width=40%></img>
+<img src="https://user-images.githubusercontent.com/4253551/142437818-ed00c765-06d2-4de2-9c68-6b9fe27ef153.png" width=40%></img>
+
 #### More info
 
 + A complete explanation of the experiment can be found [at fronkonstin](https://fronkonstin.com/)
